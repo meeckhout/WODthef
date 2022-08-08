@@ -1,10 +1,12 @@
 import React from 'react';
 import './Searchbar.css';
+import { FaSearch } from "react-icons/fa";
 
 function Searchbar() {
     return(
         <div className="search">
-            <input type="text" className="searchbar" placeholder="Find your wod"/>
+            <input type="text" placeholder="Find your wod" className="searchbar" />
+            <button><FaSearch /></button>
         </div>
     )
 }
