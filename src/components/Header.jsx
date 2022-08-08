@@ -1,11 +1,13 @@
 import React from 'react';
 import './Header.css';
-import headerImg from '../assets/images/headerImg.png';
+import wtf from '../assets/images/wtf.png';
+import headerAlt from '../assets/images/headerAlt.png';
 
 function Header() {
     return(
         <div>
-          <img src={headerImg} alt="crossfit" className="header" />
+          <img src={headerAlt} alt="crossfit" className="header" />
+            <img src={wtf} alt="text-logo" className="logo" />
         </div>
     )
 }
