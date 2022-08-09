@@ -12,7 +12,7 @@ function Searchbar() {
         const options = {
             method: 'GET',
             headers: {
-                'X-RapidAPI-Key': '13a70d2f90msh4be17b36f27a2fcp11a47ajsna9101a51e768',
+                'X-RapidAPI-Key': ,
                 'X-RapidAPI-Host': 'exercisedb.p.rapidapi.com'
             }
         };
