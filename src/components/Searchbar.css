@@ -1,3 +1,6 @@
+.search {
+  position: relative;
+}
 .search .searchbar {
   font-family: "Avenir Pro", sans-serif;
   font-size: 1.2rem;
@@ -10,6 +13,7 @@
 }
 .search .FaSearch {
   color: #fff;
+  position: absolute;
 }
 
 /*# sourceMappingURL=Searchbar.css.map */

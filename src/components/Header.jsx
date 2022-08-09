@@ -1,13 +1,11 @@
 import React from 'react';
 import './Header.css';
-import wtf from '../assets/images/wtf.png';
-import headerAlt from '../assets/images/headerAlt.png';
+import wtfLogo from '../assets/images/wtfLogo.png';
 
 function Header() {
     return(
         <div>
-          <img src={headerAlt} alt="crossfit" className="header" />
-            <img src={wtf} alt="text-logo" className="logo" />
+          <img src={wtfLogo} alt="crossfit" className="header" />
         </div>
     )
 }

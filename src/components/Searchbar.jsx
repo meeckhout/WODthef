@@ -6,7 +6,7 @@ function Searchbar() {
     return(
         <div className="search">
             <input type="text" placeholder="Find your wod" className="searchbar" />
-            <button><FaSearch /></button>
+            <button><FaSearch className="FaSearch"/></button>
         </div>
     )
 }

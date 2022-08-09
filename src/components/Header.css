@@ -1,6 +1,5 @@
 .header {
-  display: flex;
-  flex-direction: column;
+  width: 100%;
 }
 
 /*# sourceMappingURL=Header.css.map */
