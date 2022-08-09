@@ -1,6 +1,6 @@
 import './App.css';
-import {Header} from './components/Header.jsx';
-import {Searchbar} from './components/Searchbar'
+import {Header} from './_partials/Header.jsx';
+import {Searchbar} from './_partials/Searchbar'
 // import {one, two, three} from '...';
 
 function App() {

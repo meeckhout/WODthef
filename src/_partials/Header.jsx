@@ -1,5 +1,5 @@
 import React from 'react';
-import './Header.css';
+import '../styles/Header.css';
 import wtfLogov2 from '../assets/images/wtfLogov2.png';
 
 
