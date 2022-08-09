@@ -10,13 +10,15 @@
 }
 .search .searchbar {
   font-family: "Avenir Pro", sans-serif;
-  font-size: 1.2rem;
+  font-size: 0.8rem;
   text-transform: uppercase;
   color: #fff;
   width: 350px;
   height: 35px;
   background-color: #00BCE5;
   border: none;
+  outline: none;
+  padding-left: 10px;
 }
 .search .FaSearch {
   color: #fff;

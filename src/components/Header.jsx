@@ -1,13 +1,14 @@
 import React from 'react';
 import './Header.css';
-import wtfLogo from '../assets/images/wtfLogo.png';
+import wtfLogov2 from '../assets/images/wtfLogov2.png';
+
 
 function Header() {
     return(
         <div>
-          <img src={wtfLogo} alt="crossfit" className="header" />
+          <img src={wtfLogov2} alt="crossfit" className="header" />
         </div>
     )
 }
 
-export default Header;
+export {Header};
