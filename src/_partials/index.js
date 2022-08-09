@@ -1,8 +1,7 @@
 import {Header} from './Header';
-import {Searchbar, GetApi} from './Searchbar';
+import {Searchbar} from './Searchbar';
 
 export {
     Header,
     Searchbar,
-    GetApi
 }

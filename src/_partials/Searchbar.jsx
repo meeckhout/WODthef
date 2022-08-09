@@ -2,7 +2,7 @@ import React, {useEffect, useState} from 'react';
 import '../styles/Searchbar.css';
 import { FaSearch } from "react-icons/fa";
 
-function GetApi() {
+function Searchbar() {
 
     // const [data, setData] = useState(null);
     // const [loading, setLoading] = useState(true);
@@ -35,10 +35,6 @@ function GetApi() {
                 })
     }, [])
 
-    return <div>App</div>
-}
-
-function Searchbar() {
     return(
         <div className="findWod">
             <div className="search">
@@ -53,5 +49,4 @@ function Searchbar() {
     )
 }
 
-export {GetApi};
 export {Searchbar};
