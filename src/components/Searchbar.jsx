@@ -4,9 +4,11 @@ import { FaSearch } from "react-icons/fa";
 
 function Searchbar() {
     return(
-        <div className="search">
-            <input type="text" placeholder="Find your wod" className="searchbar" />
-            <button><FaSearch className="FaSearch"/></button>
+        <div className="findWod">
+            <div className="search">
+                <input type="text" placeholder="Find your wod" className="searchbar" />
+                <FaSearch className="FaSearch"/>
+            </div>
         </div>
     )
 }

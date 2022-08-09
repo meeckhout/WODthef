@@ -1,19 +1,31 @@
 
+.findWod {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .search {
   position: relative;
+
   .searchbar {
     font-family: 'Avenir Pro', sans-serif;
     font-size: 1.2rem;
     text-transform: uppercase;
     color: #fff;
-    width: 380px;
-    height: 45px;
+    width: 350px;
+    height: 35px;
     background-color: #00BCE5;
     border: none;
   }
 
   .FaSearch {
     color: #fff;
+    height: 18px;
+    width: 18px;
     position: absolute;
+    left: 328px;
+    top: 10px;
     }
   }
