@@ -1,0 +1,14 @@
+span {
+  font-family: 'Avenir', sans-serif;
+  font-size: .7rem;
+  text-transform: uppercase;
+  letter-spacing: .1rem;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  //height: 100vh;
+}

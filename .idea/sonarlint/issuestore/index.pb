@@ -3,8 +3,6 @@ B
 src/pages/index.js,c/1/c16ef34da304c300e7b6c91b3a47fea77c278c7a
 A
 public/index.html,f/4/f43ecdf8d666ee908aacce037b4cd72159e4741b
-H
-src/_partials/Header.jsx,8/0/80299aea3691a20fadd0e85e47bab5594c2eb229
 ;
 src/App.css,a/a/aa7165aefcf8ee3d73539e99ab007daf1aa18d8d
 =
@@ -14,5 +12,13 @@ I
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+<
+src/index.js,f/9/f900edc44cb929c2267a16100a32851f6d5b477d
+K
+src/_partials/Searchbar.jsx,8/0/8095746d4c92806c360c1e58ceecf79d966f2588
+B
+src/pages/WODs.jsx,8/5/85d379a648e82600ce276fa92eb51d237477645f
 F
-src/_partials/index.js,8/a/8af4edea46adb557d48d4c10dbab1933c77c556c
+src/styles/Header.scss,2/5/25892f85ed25383a1a0b972cb752bff1f0f59e84
+H
+src/_partials/Header.jsx,8/0/80299aea3691a20fadd0e85e47bab5594c2eb229

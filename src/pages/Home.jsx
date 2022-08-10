@@ -1,5 +1,5 @@
 import React from 'react';
-import {Header, Navbar, Searchbar} from '../_partials';
+import {Header, Navbar, Searchbar, Footer} from '../_partials';
 
 function Home() {
     return(
@@ -7,6 +7,7 @@ function Home() {
             <Navbar />
             <Header />
             <Searchbar />
+            <Footer />
         </div>
     )
 }
