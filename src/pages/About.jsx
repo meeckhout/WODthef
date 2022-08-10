@@ -15,6 +15,7 @@ function About() {
                 <h3 className="about">
                     Hello and welcome to WOD the f***!
                 </h3>
+
             </div>
     )
 }

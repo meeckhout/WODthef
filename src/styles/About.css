@@ -27,8 +27,9 @@ h3 {
   justify-content: center;
   align-items: center;
   font-family: "WTFont", sans-serif;
-  font-size: 1rem;
-  color: #FB09B7;
+  font-size: 2rem;
+  letter-spacing: 0.4rem;
+  color: white;
   border: 1px solid pink;
 }
 
