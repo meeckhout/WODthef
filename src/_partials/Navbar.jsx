@@ -3,13 +3,13 @@ import '../styles/Navbar.css';
 
 const Navbar = () => {
     return(
-        <div className='nav-wrapper'>
-            <ul className="navbar">
-                <li>Home</li>
-                <li>About</li>
-                <li>WODs</li>
-            </ul>
-        </div>
+        <>
+            <div className="flex-container">
+                <div className="item">Home</div>
+                <div className="item">About</div>
+                <div className="item">WODs</div>
+            </div>
+        </>
     )
 }
 

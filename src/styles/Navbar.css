@@ -1,8 +1,17 @@
-.navbar {
+.flex-container {
+  font-family: "WTFont", sans-serif;
+  font-size: 2rem;
+  color: #00BCE5;
+  height: 40px;
   display: flex;
-  flex-direction: row;
   justify-content: flex-end;
-  align-content: space-between;
+}
+.flex-container :hover {
+  color: #FB09B7;
+}
+
+.item {
+  width: 15%;
 }
 
 /*# sourceMappingURL=Navbar.css.map */
