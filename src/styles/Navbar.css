@@ -1,7 +1,6 @@
 .flex-container {
   font-family: "WTFont", sans-serif;
   font-size: 2rem;
-  color: #00BCE5;
   height: 40px;
   display: flex;
   justify-content: flex-end;
@@ -10,9 +9,11 @@
   color: #FB09B7;
 }
 
-.item {
+a {
+  color: #00BCE5;
   width: 15%;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .logo {

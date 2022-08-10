@@ -11,9 +11,9 @@ const Navbar = () => {
                 <img src={logo} alt="wtf logo" className="logo"/>
 
                 <nav>
-                    <Link to="/">Home</Link>
-                    <Link to="/about">About</Link>
-                    <Link to="/WODs">WODs</Link>
+                    <Link to="/" className="item">Home</Link>
+                    <Link to="/about" className="item">About</Link>
+                    <Link to="/WODs" className="item">WODs</Link>
                 </nav>
             </div>
         </>
