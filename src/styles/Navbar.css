@@ -1,19 +1,8 @@
-.nav-wrapper, h1 {
-  height: 80px;
-  display: flex;
-  flex-direction: column;
-}
-
 .navbar {
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
   align-content: space-between;
-  height: 50px;
-}
-
-body {
-  yellow-align: center;
 }
 
 /*# sourceMappingURL=Navbar.css.map */

@@ -1,12 +1,17 @@
 import './App.css';
-import {Header, Searchbar, Navbar} from './_partials';
+import { Home } from './pages/Home';
+import { Routes, Route, Link } from "react-router-dom";
 
 function App() {
   return (
     <div className="container">
-        <Navbar />
-        <Header />
-        <Searchbar />
+        <div className="navigation">
+            <Routes>
+                <Route path="/" element={<Home />} />
+                {/*<Route path="about" element={<About />} />*/}
+
+            </Routes>
+        </div>
     </div>
   );
 }
