@@ -15,10 +15,11 @@
 
 a {
   font-family: "WTFont", sans-serif;
-  font-size: 1rem;
+  font-size: 1.4rem;
   margin-right: auto;
-  color: white;
+  color: #00BCE5;
   border: 1px solid white;
+  margin-left: 15px;
 }
 
 h3 {
