@@ -1,0 +1,23 @@
+.featured {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  .title {
+    color: #FB09B7;
+    font-family: 'WTFont', sans-serif;
+    font-size: 3rem;
+    letter-spacing: .5rem;
+  }
+
+  .type {
+    font-size: 1rem;
+  }
+
+  .time, .movements {
+    font-family: 'WTFont', sans-serif;
+    font-size: 2rem;
+    color: #00BCE5;
+  }
+}

@@ -1,5 +1,6 @@
 import React from "react";
-import { WOD } from '../_partials/WOD';
+import { WOD } from './WOD';
+import '../styles/DailyWOD.css';
 
 function DailyWOD() {
     return(

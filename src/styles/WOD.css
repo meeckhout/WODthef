@@ -1,0 +1,22 @@
+.featured {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.featured .title {
+  color: #FB09B7;
+  font-family: "WTFont", sans-serif;
+  font-size: 3rem;
+  letter-spacing: 0.5rem;
+}
+.featured .type {
+  font-size: 1rem;
+}
+.featured .time, .featured .movements {
+  font-family: "WTFont", sans-serif;
+  font-size: 2rem;
+  color: #00BCE5;
+}
+
+/*# sourceMappingURL=WOD.css.map */

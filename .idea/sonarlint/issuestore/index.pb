@@ -10,11 +10,5 @@ I
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-H
-src/_partials/Header.jsx,8/0/80299aea3691a20fadd0e85e47bab5594c2eb229
-B
-src/pages/WODs.jsx,8/5/85d379a648e82600ce276fa92eb51d237477645f
 <
 src/index.js,f/9/f900edc44cb929c2267a16100a32851f6d5b477d
-K
-src/_partials/Searchbar.jsx,8/0/8095746d4c92806c360c1e58ceecf79d966f2588
