@@ -1,8 +1,6 @@
 import React from 'react';
-import { Link } from "react-router-dom";
-import {Navbar} from '../_partials/Navbar';
+import {Navbar} from '../_partials';
 import '../styles/About.css';
-import logo from '../assets/images/logo.png'
 
 function About() {
     return(
@@ -10,8 +8,12 @@ function About() {
                 <Navbar />
 
                 <h3 className="about">
-                    Hello and welcome to WOD the f***!
+                    <span className="avenir">About</span> WOD the f***
                 </h3>
+
+                <div className="about-me">
+
+                </div>
 
             </div>
     )
