@@ -9,14 +9,21 @@
   font-family: "WTFont", sans-serif;
   font-size: 3rem;
   letter-spacing: 0.5rem;
+  margin: 2rem 0 0.4rem 0;
 }
 .featured .type {
   font-size: 1rem;
+  margin-bottom: 2rem;
 }
-.featured .time, .featured .movements {
+.featured .time {
+  margin-bottom: 0.1rem;
+}
+.featured .movements {
   font-family: "WTFont", sans-serif;
   font-size: 2rem;
   color: #00BCE5;
+  line-height: 3.4rem;
+  letter-spacing: 0.3rem;
 }
 
 /*# sourceMappingURL=WOD.css.map */
