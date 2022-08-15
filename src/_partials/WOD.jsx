@@ -5,7 +5,7 @@ import '../styles/WOD.css';
 function WOD() {
     return(
         <div>
-            <div className="stock-container">
+            <div className="wod-container">
                 {Data.map((data, key) => {
                     return (
                         <div className="featured" key={key}>
@@ -19,7 +19,8 @@ function WOD() {
                             <span className="movements">{data.movement5}</span>
                         </div>
                     );
-                })}
+                }
+                )}
             </div>
         </div>
     )
