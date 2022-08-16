@@ -8,7 +8,7 @@ function WOD() {
             <div className="wod-container">
                 {Data.map((data, key) => {
                     return (
-                        <div className="featured" key={key}>
+                        <div className="featured wods" key={key}>
                             <span className="title">{data.name}</span>
                             <span className="type">{data.type}</span>
                             <span className="time">{data.time}</span>

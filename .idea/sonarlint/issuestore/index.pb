@@ -12,18 +12,10 @@ I
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 <
 src/index.js,f/9/f900edc44cb929c2267a16100a32851f6d5b477d
-H
-src/_partials/Navbar.jsx,a/3/a306333a43cd02d3018496c70dc76a6f65d5ec6e
-E
-src/styles/About.scss,d/d/ddf9fa93fe05a4a88d63f80ab135bdb979c20c53
-C
-src/pages/About.jsx,f/c/fcad63f0891a8395b39928f4961bb065edb79c37
 F
 src/styles/Footer.scss,5/3/53c95a5df376edda7962a023b7348c2b4aea6c30
 F
 src/_partials/index.js,8/a/8af4edea46adb557d48d4c10dbab1933c77c556c
-F
-src/styles/Navbar.scss,7/3/73c0023a6f4428fa6fc522c028b63af33043e658
 ;
 src/App.css,a/a/aa7165aefcf8ee3d73539e99ab007daf1aa18d8d
 F
