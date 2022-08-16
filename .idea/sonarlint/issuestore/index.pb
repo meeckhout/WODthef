@@ -18,8 +18,6 @@ F
 src/_partials/index.js,8/a/8af4edea46adb557d48d4c10dbab1933c77c556c
 ;
 src/App.css,a/a/aa7165aefcf8ee3d73539e99ab007daf1aa18d8d
-F
-src/styles/Header.scss,2/5/25892f85ed25383a1a0b972cb752bff1f0f59e84
 H
 src/_partials/Footer.jsx,7/8/787df1aff634e579a4729ddb99ac1f8a691866ff
 K
