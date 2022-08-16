@@ -1,11 +1,12 @@
 import React from 'react';
-import {WOD, Navbar} from '../_partials';
+import {WOD, Navbar, Footer} from '../_partials';
 
 function WODs() {
     return(
         <div>
             <Navbar />
             <WOD />
+            <Footer />
         </div>
     )
 }

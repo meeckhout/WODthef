@@ -22,16 +22,17 @@ function WOD() {
         setName(keyword);
     };
     return (
-        <div className="container">
+        <div className="search-container">
+            <span className="searchWOD">Search WOD</span>
             <input
                 type="search"
                 value={name}
                 onChange={filter}
                 className="input"
-                placeholder="Filter"
+                placeholder="Enter your WOD name"
             />
 
-            <div className="user-list">
+            <div className="wod-container">
                 {foundData && foundData.length > 0 ? (
                     foundData.map((data) => (
                         <div key={data.id} className="featured wods">

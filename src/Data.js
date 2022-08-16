@@ -25,5 +25,5 @@ export const Data = [
         movement2: "100 push ups",
         movement3: "100 sit-ups",
         movement4: "100 squats",
-    }
+    },
 ];

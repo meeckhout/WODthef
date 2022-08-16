@@ -1,6 +1,26 @@
 .wod-container {
-  margin-top: 2rem;
+  margin-top: 4rem;
  column-count: 3;
+}
+
+.search-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 3rem 0 3rem 0;
+
+  .searchWOD {
+    font-size: .8rem;
+    margin-bottom: .4rem;
+  }
+
+  input {
+    width: 250px;
+    height: 30px;
+    border: 1px solid #151515;
+    border-radius: 6px;
+  }
 }
 
 .featured {
